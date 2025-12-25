@@ -1,0 +1,9 @@
+.vagrant/
+target/
+node_modules/
+*.log
+.env
+.idea/
+.vscode/
+.DS_Store
+
